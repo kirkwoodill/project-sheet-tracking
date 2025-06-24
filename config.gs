@@ -13,5 +13,5 @@ var PROJECT_CONFIGS = {
     completedCol: "F",
     analystCol: "G"
   }
-  // Add more projects as needed
+  // Add more projects as needed...
 };
